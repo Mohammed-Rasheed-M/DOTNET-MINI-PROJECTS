@@ -1,0 +1,11 @@
+F:\repos\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+F:\repos\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe
+F:\repos\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+F:\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.AssemblyReference.cache
+F:\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.SuggestedBindingRedirects.cache
+F:\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
+F:\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+F:\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.cache
+F:\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache
+F:\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+F:\repos\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
