@@ -1,0 +1,11 @@
+F:\repos\Calculator_5\Calculator_5\bin\Debug\Calculator_5.exe.config
+F:\repos\Calculator_5\Calculator_5\bin\Debug\Calculator_5.exe
+F:\repos\Calculator_5\Calculator_5\bin\Debug\Calculator_5.pdb
+F:\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.csproj.AssemblyReference.cache
+F:\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.csproj.SuggestedBindingRedirects.cache
+F:\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.Form1.resources
+F:\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.Properties.Resources.resources
+F:\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.csproj.GenerateResource.cache
+F:\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.csproj.CoreCompileInputs.cache
+F:\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.exe
+F:\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.pdb
